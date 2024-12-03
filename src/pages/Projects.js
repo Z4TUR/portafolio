@@ -10,14 +10,14 @@ function Projects() {
             link: 'https://z4tur.github.io/pokeapp/',
         },
         {
-            nombre: '',
-            descripcion: '', 
-            link: '',
+            nombre: 'Portafolio',
+            descripcion: 'El presente portafolio', 
+            link: 'https://github.com/Z4TUR/portafolio',
         },
         {
-            nombre: '', 
-            descripcion: '', 
-            link: '',
+            nombre: 'Otros proyectos', 
+            descripcion: 'Puedes encontrar más en mi Github', 
+            link: 'https://github.com/Z4TUR/',
         },
     ];
 
